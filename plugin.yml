@@ -1,0 +1,16 @@
+name: LoreKitPvP
+main: me.qdog83.lorepvp.Main
+version: 1.0
+description: >
+             Opens qdogs test shop plugin
+commands:
+  kitgui:
+    description: Opens kit selection GUI.
+  pvp:
+    description: Default PvP kit.
+  archer:
+    description: Archer kit
+
+
+
+
